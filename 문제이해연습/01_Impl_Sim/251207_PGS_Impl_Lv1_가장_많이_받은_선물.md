@@ -1,4 +1,4 @@
-# [241207_PGS_Impl_Lv2_가장_많이_받은_선물]
+# [251207_PGS_Impl_Lv1_가장_많이_받은_선물]
 > [문제 출처](https://school.programmers.co.kr/learn/courses/30/lessons/258712) <br/>
 > **파일 네이밍 규칙**: `YYMMDD_플랫폼_유형_난이도_제목.md`
 > - **플랫폼**: BOJ(백준), PGS(프로그래머스), SEA(삼성SW), LTC(리트코드)
